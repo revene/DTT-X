@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://rm-wz9794vc2ah3g166vio.mysql.rds.aliyuncs.com/dttx?characterEncoding=utf-8&useSSL=false
+    username: develop
+    password: Ww4247794
