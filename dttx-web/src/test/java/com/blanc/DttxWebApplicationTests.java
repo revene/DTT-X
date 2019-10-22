@@ -1,10 +1,10 @@
-package com.blanc.dttxclient;
+package com.blanc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DttxClientApplicationTests {
+class DttxWebApplicationTests {
 
     @Test
     void contextLoads() {

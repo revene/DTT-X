@@ -8,18 +8,10 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.blanc</groupId>
     <artifactId>dttx-biz</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>dttx-biz</name>
-
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
 
     <dependencies>
 
     </dependencies>
-
-
 </project>

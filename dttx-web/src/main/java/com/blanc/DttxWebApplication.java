@@ -1,13 +1,13 @@
-package com.blanc.dttxclient;
+package com.blanc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DttxClientApplication {
+public class DttxWebApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DttxClientApplication.class, args);
+        SpringApplication.run(DttxWebApplication.class, args);
     }
 
 }
